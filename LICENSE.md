@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Andreas Gohr
+Original Script "Commie": Copyright (c) 2015 Andreas Gohr
+Modifications: Copyright (c) 2022 Paul Hoffmann
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
