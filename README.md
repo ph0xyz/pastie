@@ -6,4 +6,7 @@ To install, clone this somewhere under your webroot (PHP required) and make the 
  
 This was hacked together in a couple of hours. So treat it as beta for now. Pull Requests welcome.
 
-based on Splitbrains "Commie"
+based on:
+- Splitbrains "Commie"
+- WING Css Libary
+- Fontawesome Iconset
