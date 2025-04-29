@@ -1,4 +1,5 @@
 # pastie
+> **⚠️ Warning:** This project is **archived**, no longer under active maintenance, and may contain bugs or security vulnerabilities. Use at your own risk.
 
 pastie is a pastebin script with line commenting support.
 
